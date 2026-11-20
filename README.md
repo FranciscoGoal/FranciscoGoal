@@ -1,10 +1,12 @@
 # Francisco González Álvarez
 
-**Software Developer** · Java & Spring Boot · Abu Dhabi, UAE
+**Java Backend Developer** · Spring Boot · Abu Dhabi, UAE
 
-I build backend services in Java and Spring Boot: REST APIs, authentication and the data models behind them. I'm currently developing **[Crewmoor](https://www.crewmoor.com/)**, a product that helps teams coordinate tasks and day-to-day operations. I'm drawn to software that replaces scattered messages and spreadsheets with one clear, shared view of the work.
+I build backend services in Java and Spring Boot, with a focus on REST APIs, authentication and domain modelling.
 
-[LinkedIn](https://www.linkedin.com/in/francisco-augusto-gonz%C3%A1lez-%C3%A1lvarez-0666893b8) · [crewmoor.com](https://www.crewmoor.com/) · Open to junior backend roles and internships
+My main project is **[Crewmoor](https://www.crewmoor.com/)**, a platform in development for operations, maintenance and asset management. I’m designing it for companies that operate and maintain physical equipment. When a fault returns, a technician should be able to look up the asset, see what the previous shift tried and understand why they made that decision. Crewmoor already supports real-time chat within each task. I’m working on connecting those conversations and maintenance records to each asset’s history.
+
+[LinkedIn](https://www.linkedin.com/in/francisco-galvarez) · [crewmoor.com](https://www.crewmoor.com/) · Open to junior backend roles and internships
 
 ---
 
@@ -18,6 +20,6 @@ I'm studying for the Higher Vocational Diploma in Multiplatform Application Deve
 
 ## Contact
 
-- **LinkedIn:** [Francisco Augusto González Álvarez](https://www.linkedin.com/in/francisco-augusto-gonz%C3%A1lez-%C3%A1lvarez-0666893b8)
+- **LinkedIn:** [Francisco Augusto González Álvarez](https://www.linkedin.com/in/francisco-galvarez)
 - **GitHub:** [@FranciscoGoal](https://github.com/FranciscoGoal)
 - **Crewmoor:** [crewmoor.com](https://www.crewmoor.com/) · [Prototype](https://demo.crewmoor.com/)
