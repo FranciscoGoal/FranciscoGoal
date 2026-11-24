@@ -16,7 +16,7 @@ My main project is **[Crewmoor](https://www.crewmoor.com/)**, a platform in deve
 
 ## About
 
-Most of my work is on the server side. I model a domain, expose it through a REST API and secure it with Spring Security. My public repositories show how that has progressed, from a first Spring Boot CRUD service to a stateless JWT authentication API with role-based access control.
+Most of my work is on the server side. I design backend services as small, independent components that talk through REST APIs and events. In Crewmoor, separate auth, user and task services issue and verify JWT tokens (RS256). In UAV Mission Control, an event-driven backend, I use WebSocket/STOMP for real-time updates. My public repositories show how that has progressed, from a first Spring Boot CRUD service to a stateless JWT authentication API with role-based access control.
 
 I document each project so it can be run and reviewed without asking me questions: setup steps, configuration, endpoints and known limitations.
 
