@@ -1,10 +1,12 @@
-# Francisco González Álvarez
+# Francisco Augusto González Álvarez
 
 **Java Backend Developer** · Spring Boot · Abu Dhabi, UAE
 
 I build backend services in Java and Spring Boot, with a focus on REST APIs, authentication and domain modelling.
 
-My main project is **[Crewmoor](https://www.crewmoor.com/)**, a platform in development for operations, maintenance and asset management. I’m designing it for companies that operate and maintain physical equipment. When a fault returns, a technician should be able to look up the asset, see what the previous shift tried and understand why they made that decision. Crewmoor already supports real-time chat within each task. I’m working on connecting those conversations and maintenance records to each asset’s history.
+My main project is **[Crewmoor](https://www.crewmoor.com/)**, a platform in development for operations, maintenance and asset management, designed for companies that operate and maintain physical equipment. When a fault returns, a technician should be able to look up the asset, see what the previous shift tried and understand why they made that decision. Real-time communication within each task is in development, and I’m working on connecting those conversations and maintenance records to each asset’s history.
+
+**Stack:** Java · Spring Boot · Spring Security · JWT · REST APIs · WebSocket/STOMP · JUnit 5
 
 [LinkedIn](https://www.linkedin.com/in/francisco-galvarez) · [crewmoor.com](https://www.crewmoor.com/) · Open to junior backend roles and internships
 
